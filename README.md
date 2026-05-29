@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hey,%20I'm%20Benjamin%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20develop%20apps%20for%20iOS,%20Android%20%26%20desktop&descAlignY=60&descSize=18&descColor=ffffff" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hey,%20I'm%20Benjamin%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20develop%20apps%20for%20iOS,%20Android,%20desktop&descAlignY=60&descSize=18&descColor=ffffff" alt="header" width="100%" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=I+develop+apps+for+iOS,+Android+%26+desktop;TypeScript+%C2%B7+Swift+%C2%B7+C%23+%C2%B7+Python;Turning+ideas+into+things+people+can+use" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=I+develop+apps+for+iOS,+Android+and+desktop;TypeScript+%C2%B7+Swift+%C2%B7+C%23+%C2%B7+Python;Turning+ideas+into+things+people+can+use" alt="typing banner" />
 
 <img src="https://komarev.com/ghpvc/?username=wrnbenji&style=flat&color=22c55e&label=Profile+views" alt="profile views" />
 

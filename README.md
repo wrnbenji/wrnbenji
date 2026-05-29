@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=I+develop+apps+for+iOS,+Android+and+desktop;TypeScript+%C2%B7+Swift+%C2%B7+C%23+%C2%B7+Python;Turning+ideas+into+things+people+can+use" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=760&lines=I+develop+apps+for+iOS,+Android+and+desktop;TypeScript+%C2%B7+Swift+%C2%B7+C%23+%C2%B7+Python;Turning+ideas+into+things+people+can+use" alt="typing banner" />
 
 <img src="https://komarev.com/ghpvc/?username=wrnbenji&style=flat&color=22c55e&label=Profile+views" alt="profile views" />
 

@@ -12,10 +12,10 @@
 
 ## 👋 About me
 
-I'm Benjamin — I develop applications and build tools across platforms. From **iOS & Android apps** to **desktop software** and **web projects**, I like turning ideas into things people can actually use.
+I'm Benjamin. I build applications and tools across platforms, from **iOS & Android apps** to **desktop software** and **web projects**. I like making things people actually use.
 
 - 📱 Building mobile (iOS / Android) and desktop apps
-- 🌐 Web & open-source — like **[selfhost-dashboard](https://github.com/wrnbenji/selfhost-dashboard)**
+- 🌐 Web and open-source, like **[selfhost-dashboard](https://github.com/wrnbenji/selfhost-dashboard)**
 - 💻 Working with TypeScript, Swift, C# and Python
 - 🌱 Always learning by building in the open
 
@@ -49,7 +49,7 @@ I'm Benjamin — I develop applications and build tools across platforms. From *
 
 ### [selfhost-dashboard](https://github.com/wrnbenji/selfhost-dashboard)
 
-A beautiful, fast homelab dashboard that auto-discovers your Docker containers.
+A fast homelab dashboard that builds itself from your Docker containers.
 
 - 🔍 Zero-config discovery via Docker labels
 - 📡 Real-time health monitoring over SSE
